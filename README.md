@@ -1,100 +1,122 @@
-# Amazon Competitive Market Intelligence System
+<h1 align="center">Hi, I'm Abdul Wahab 👋</h1>
+<h3 align="center">Data Scientist | Machine Learning Engineer | Analytics Enthusiast</h3>
 
-A full-stack, AI-powered data science project that fetches **live Amazon electronic product data using web scraping**, performs advanced analytics and predictive modeling, and presents **real-time actionable insights** through a clean and professional Streamlit dashboard.
-
----
-
-## Author
-
-**Abdul Wahab**  
-Data Science Student | Machine Learning & Analytics  
-Islamabad, Pakistan  
-
-- Email: abdul00wahab1000@gmail.com  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- GitHub: https://github.com/your-username  
+<p align="center">
+📍 Islamabad, Pakistan <br>
+🎓 B.Sc. Data Science (In Progress) <br>
+📊 Turning data into business insights
+</p>
 
 ---
 
-## Project Overview
+## 🚀 About Me
 
-This project is designed as a **real-world market intelligence system** for the e-commerce domain.  
-It continuously collects **live data directly from Amazon** across multiple **electronic product categories** and transforms it into business-ready insights for pricing, product, and finance decision-making.
+I am a **Data Science student** with strong hands-on experience in **machine learning, predictive analytics, real-time dashboards, and data-driven systems**.  
+I enjoy building **end-to-end data science projects** that solve **real-world problems** across healthcare, finance, HR, operations, and e-commerce.
 
-Unlike toy datasets, this system works on **real, continuously changing market data**.
-
----
-
-## Business Problem
-
-Pricing and product teams often rely on:
-- Manual competitor checks  
-- Static reports  
-- Delayed insights  
-
-This leads to:
-- Poor pricing decisions  
-- Excessive discounting  
-- Missed market opportunities  
-
-### Solution
-
-This system provides:
-- Real-time competitor pricing visibility  
-- Discount and demand trend analysis  
-- AI-driven price forecasting  
-- Product segmentation using clustering  
-
-All delivered through a professional dashboard.
+I focus on:
+- Clean, production-style code  
+- Business-oriented problem solving  
+- Real-time data pipelines & dashboards  
+- Explainable and scalable ML solutions  
 
 ---
 
-## Key Features
+## 🧠 Core Skills
 
-- Live web scraping from Amazon (no static datasets)
-- Supports multiple electronic categories:
-  - Smartphones
-  - Laptops
-  - Headphones
-  - Smartwatches
-  - Tablets
-  - Accessories
-- Automatic data refresh every **10 minutes**
-- Advanced feature engineering for business metrics
-- Predictive modeling using **XGBoost** and **Linear Regression**
-- Product segmentation using **K-Means clustering**
-- AI-generated textual insights
-- Elegant, interactive Streamlit dashboard
-- Exportable reports and datasets
+### 🖥 Programming & Tools
+- Python, SQL, Git
+- APIs, ETL Pipelines
+- Jupyter Notebook
 
----
+### 📊 Data Science & ML
+- Classification, Regression, Clustering
+- Ensemble Models, XGBoost
+- Feature Engineering & Model Tuning
+- Time Series Forecasting
+- Anomaly Detection
 
-## Technology Stack
-
-### Programming & Data
-- Python
-- Pandas
-- NumPy
-
-### Web Scraping
-- Requests
-- BeautifulSoup
-- lxml
-
-### Machine Learning & AI
-- Scikit-learn
-- XGBoost
-- K-Means Clustering
-- Linear Regression
-
-### Visualization & Dashboard
-- Matplotlib
-- Seaborn
-- Plotly
+### 📈 Visualization & Dashboards
+- Matplotlib, Seaborn, Plotly
 - Streamlit
+- Power BI, Tableau
 
 ---
 
-## System Architecture
+## 🏗 Featured Projects
 
+### 🛒 Amazon Competitive Market Intelligence (Live Data)
+- Web-scrapes **real-time Amazon electronics data** every 10 minutes
+- Pricing, discount, and trend analysis
+- K-Means clustering & XGBoost price prediction
+- AI-powered insights with an elegant Streamlit dashboard
 
+**Tech:** Python, BeautifulSoup, Pandas, Streamlit, XGBoost  
+
+---
+
+### 📉 Customer Churn Prediction System
+- End-to-end ML pipeline for churn prediction
+- SQL-based customer risk scoring
+- Business KPIs for retention strategies
+
+**Tech:** Python, SQL, Scikit-learn  
+
+---
+
+### ⚙ AI-Ops Real-Time Analytics Dashboard
+- Real-time monitoring & anomaly detection
+- Predictive forecasting with automated alerts
+- Improved operational response time
+
+**Tech:** Python, Streamlit, Time Series Models  
+
+---
+
+### 👥 HR Analytics & Attrition Prediction
+- Analyzed 100K+ employee records
+- Identified key attrition drivers
+- Interactive dashboards for HR decision-making
+
+**Tech:** Python, Pandas, ML Models  
+
+---
+
+### 🏥 Diabetes Readmission Prediction
+- Ensemble ML model with 92% accuracy
+- SHAP-based explainability for healthcare insights
+- Risk-based patient segmentation
+
+**Tech:** Python, Scikit-learn, SHAP  
+
+---
+
+### 🧬 Bioinformatics & Genomic Analysis
+- Transcriptomic data processing
+- PCA, clustering, normalization pipelines
+- Interactive visualization apps
+
+**Tech:** Python, PCA, K-Means, Streamlit  
+
+---
+
+## 📌 What I’m Looking For
+
+- 🎯 Data Science / ML Internship
+- 🏢 Real-world problem solving
+- 📊 Analytics-driven environments
+- 🤝 Teams that value clean and scalable solutions
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: abdul00wahab1000@gmail.com  
+- 💼 LinkedIn: linkedin.com/in/your-profile  
+- 🧑‍💻 GitHub: github.com/your-username  
+
+---
+
+<p align="center">
+✨ Always learning. Always building. Always improving. ✨
+</p>
