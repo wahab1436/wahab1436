@@ -112,8 +112,8 @@ I focus on:
 ## 📫 Connect With Me
 
 - 📧 Email: abdul00wahab1000@gmail.com  
-- 💼 LinkedIn: linkedin.com/in/your-profile  
-- 🧑‍💻 GitHub: github.com/your-username  
+- 💼 LinkedIn: www.linkedin.com/in/abdul-wahab-w-462974349  
+- 🧑‍💻 GitHub: (https://github.com/wahab1436) 
 
 ---
 
